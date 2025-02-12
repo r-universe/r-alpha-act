@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "R.AlphA.Home"]
+	path = R.AlphA.Home
+	url = https://github.com/r-alpha-act/r.alpha.home
